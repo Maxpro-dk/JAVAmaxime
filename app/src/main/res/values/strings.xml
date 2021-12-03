@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="ce_formulaire_vous_permet_d_ajouter_un_nouveau_produit">Ce formulaire vous permet d\'ajouter un nouveau produit</string>
+    <string name="d_signation">Désignation</string>
+    <string name="desciption">Desciption</string>
+    <string name="prix">Prix</string>
+    <string name="quantit_en_stock">Quantité en stock</string>
+    <string name="produit_description">Vous savez, grâce à l’étape précédente, qui sont vos clients types, vous devez donc chercher à savoir pourquoi ils ont besoin de votre produit. L’objectif d’une description produit est de fournir à vos clients des informations importantes sur les caractéristiques et les avantages du produit afin de les inciter à l’acheter. Chaque produit que vous vendez sur votre site possède ses propres caractéristiques, ses fonctionnalités, ses spécificités : bref, ses points forts.</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
